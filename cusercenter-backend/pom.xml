@@ -12,10 +12,10 @@
     </parent>
 
     <groupId>com.atguigu.maven</groupId>
-    <artifactId>myuser-backend</artifactId>
+    <artifactId>usercenter-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>myuser-backend</name>
-    <description>myuser-backend</description>
+    <name>cusercenter-backend</name>
+    <description>cusercenter-backend</description>
 
     <properties>
         <java.version>17</java.version>
